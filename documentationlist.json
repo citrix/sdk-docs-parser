@@ -1,0 +1,125 @@
+[{
+        "githubrepo": "appdna",
+        "rtd": "appdna-sdk"
+    },
+    {
+        "githubrepo": "accessing-monitor-service-data-citrix-cloud",
+        "rtd": "access-monitor-service-data-citrix-cloud"
+    },
+    {
+        "githubrepo": "receiver-for-android-virtual-channel-sdk",
+        "rtd": "receiver-for-android-virtual-channel-sdk"
+    },
+    {
+        "githubrepo": "hdx-sdk-for-receiver-for-chrome",
+        "rtd": "hdx-sdk-for-receiver-for-chrome"
+    },
+    {
+        "githubrepo": "receiver-for-chrome-virtual-channel-sdk",
+        "rtd": "receiver-for-chrome-virtual-channel-sdk"
+    },
+    {
+        "githubrepo": "receiver-html5-sdk",
+        "rtd": "receiver-html5-sdk"
+    },
+    {
+        "githubrepo": "receiver-for-linux-virtual-channel-sdk",
+        "rtd": "receiver-for-linux-virtual-channel-sdk"
+    },
+    {
+        "githubrepo": "receiver-for-linux-command-reference",
+        "rtd": "receiver-for-linux-command-reference"
+    },
+    {
+        "githubrepo": "rflinux-certificate-identity-declaration-sdk",
+        "rtd": "receiver-for-linux-certificate-identity-declaration-sdk"
+    },
+    {
+        "githubrepo": "rflinux-platform-optimization-sdk",
+        "rtd": "receiver-for-linux-platform-optimization-sdk"
+    },
+    {
+        "githubrepo": "receiver-for-windows-virtual-channel-sdk",
+        "rtd": "receiver-for-windows-virtual-channel-sdk"
+    },
+    {
+        "githubrepo": "fast-connect-api-for-receiver-for-windows",
+        "rtd": "fast-connect-api-for-receiver-for-windows"
+    },
+    {
+        "githubrepo": "citrix-connection-manager-sdk-docs",
+        "rtd": "common-connection-manager-sdk"
+    },
+    {
+        "githubrepo": "rfwindows-storebrowse",
+        "rtd": "storebrowse-for-receiver-for-windows"
+    },
+    {
+        "githubrepo": "netscaler-snmp-oid-reference",
+        "rtd": "netscaler-snmp-oid-reference"
+    },
+    {
+        "githubrepo": "netscaler-syslog-message-reference",
+        "rtd": "netscaler-syslog-message-reference"
+    },
+    {
+        "githubrepo": "netscaler-nitro-api",
+        "rtd": "netscaler-nitro-api"
+    },
+    {
+        "githubrepo": "netscaler-command-reference",
+        "rtd": "netscaler-command-reference"
+    },
+    {
+        "githubrepo": "netscaler-advanced-policy-expression-reference",
+        "rtd": "netscaler-advanced-policy-expression-reference"
+    },
+    {
+        "githubrepo": "netscaler-ansible-docs",
+        "rtd": "netscaler-ansible-modules"
+    },
+    {
+        "githubrepo": "provisioning-services-sdk",
+        "rtd": "provisioning-services-sdk"
+    },
+    {
+        "githubrepo": "provisioning-services-powershell-object-programming-guide",
+        "rtd": "provisioning-services-powershell-object-programming-guide"
+    },
+    {
+        "githubrepo": "storefront-powershell-sdk",
+        "rtd": "storefront-powershell-sdk"
+    },
+    {
+        "githubrepo": "xenserver-sdk",
+        "rtd": "xenserver-sdk"
+    },
+    {
+        "githubrepo": "xenserver-management-api",
+        "rtd": "xenserver-management-api"
+    },
+    {
+        "githubrepo": "xenserver-changed-block-tracking-guide",
+        "rtd": "xenserver-changed-block-tracking-guide"
+    },
+    {
+        "githubrepo": "xenserver-ddk",
+        "rtd": "xenserver-ddk"
+    },
+    {
+        "githubrepo": "delivery-controller-sdk",
+        "rtd": "delivery-controller-sdk"
+    },
+    {
+        "githubrepo": "monitoring-api",
+        "rtd": "monitor-service-odata-api"
+    },
+    {
+        "githubrepo": "fas-powershell",
+        "rtd": "federated-authentication-service-powershell-cmdlets"
+    },
+    {
+        "githubrepo": "workspace-environment-management-sdk",
+        "rtd": "workspace-environment-management-sdk"
+    }
+]
