@@ -3,3 +3,4 @@ node_modules
 
 #exclude output file
 sdkdoclist.json
+repolist.json
