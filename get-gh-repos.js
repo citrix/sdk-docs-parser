@@ -11,7 +11,7 @@ const fs = require('fs');
                 url:'https://api.github.com/orgs/citrix/repos?per_page=150',
                 headers: {
                     'Accept': 'application/vnd.github.v3+json',
-                    'User-Agent': 'Node app'
+                    'User-Agent': 'Test Node app'
                 }
             });
 
