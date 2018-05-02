@@ -1,2 +1,5 @@
 #exclude the node folder
 node_modules
+
+#exclude output file
+sdkdoclist.json
